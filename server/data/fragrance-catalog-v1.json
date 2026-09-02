@@ -1,0 +1,8609 @@
+[
+  {
+    "id": "fc-acqua-di-parma-arancia-di-capri-eau-de-toilette",
+    "brand": "Acqua di Parma",
+    "name": "Arancia di Capri Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.acquadiparma.com/en/us/arancia-di-capri/ARANCIAEDTSPRAY.html",
+    "scentKeywords": [
+      "Citrus",
+      "Fruity",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "citrus",
+      "fruit",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "warm-cozy",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-bergamotto-di-calabria-eau-de-toilette",
+    "brand": "Acqua di Parma",
+    "name": "Bergamotto di Calabria Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.acquadiparma.com/en/us/bergamotto-di-calabria/BERGAMOTTOEDTSPRAY.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-colonia-c-l-u-b-eau-de-cologne",
+    "brand": "Acqua di Parma",
+    "name": "Colonia C.L.U.B. Eau de Cologne",
+    "concentration": "Eau de Cologne",
+    "officialUrl": "https://www.acquadiparma.com/en/us/colonia-c.l.u.b./C.L.U.B.EDCRP.html",
+    "scentKeywords": [
+      "Green",
+      "Herbal",
+      "Citrus"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "herbal-aromatic",
+      "citrus"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-colonia-edc",
+    "brand": "Acqua di Parma",
+    "name": "Colonia Eau de Cologne",
+    "concentration": "Eau de Cologne",
+    "officialUrl": "https://www.acquadiparma.com/en/us/colonia/COLONIAEDCRP.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbs",
+      "Classic Woods"
+    ],
+    "family": [
+      "citrus-aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "cool-transparent",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "elegant",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "mature-retro"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-colonia-essenza-eau-de-cologne",
+    "brand": "Acqua di Parma",
+    "name": "Colonia Essenza Eau de Cologne",
+    "concentration": "Eau de Cologne",
+    "officialUrl": "https://www.acquadiparma.com/en/us/colonia-essenza/ESSENZAEDCRP.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Herbal"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "herbal-aromatic"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-fico-di-amalfi-eau-de-toilette",
+    "brand": "Acqua di Parma",
+    "name": "Fico di Amalfi Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.acquadiparma.com/en/us/fico-di-amalfi/FICOEDTSPRAY.html",
+    "scentKeywords": [
+      "Fig",
+      "Citrus",
+      "Fruity"
+    ],
+    "family": [
+      "fresh"
+    ],
+    "tags": [
+      "fig",
+      "citrus",
+      "fruit"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-mandorlo-di-sicilia-edt",
+    "brand": "Acqua di Parma",
+    "name": "Mandorlo di Sicilia Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.acquadiparma.com/en/us/mandorlo-di-sicilia/MANDORLOEDTSPRAY.html",
+    "scentKeywords": [
+      "Almond",
+      "Vanilla",
+      "Soft Citrus"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "gourmand",
+      "almond",
+      "citrus",
+      "soft-woods"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "occasions": [
+      "relaxing-alone",
+      "date-night"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-mirto-di-panarea-eau-de-toilette",
+    "brand": "Acqua di Parma",
+    "name": "Mirto di Panarea Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.acquadiparma.com/en/us/mirto-di-panarea/MIRTOEDTSPRAY.html",
+    "scentKeywords": [
+      "Herbal",
+      "Sea Salt",
+      "Citrus"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "aquatic-sea-salt",
+      "citrus"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-oud-eau-de-parfum",
+    "brand": "Acqua di Parma",
+    "name": "Oud Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.acquadiparma.com/en/us/oud/OUDEDPSPRAY.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Warm Amber",
+      "Smoky"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "amber-warm",
+      "incense-smoke"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-quercia-eau-de-parfum",
+    "brand": "Acqua di Parma",
+    "name": "Quercia Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.acquadiparma.com/en/us/quercia/QUERCIAEDPSPRAY.html",
+    "scentKeywords": [
+      "Green",
+      "Soft Woods",
+      "Rain"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "green-leafy",
+      "soft-woods",
+      "rain-petrichor"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-sandalo-eau-de-parfum",
+    "brand": "Acqua di Parma",
+    "name": "Sandalo Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.acquadiparma.com/en/us/sandalo/SANDALOEDPSPRAY.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Amber",
+      "Warm"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-acqua-di-parma-yuzu-eau-de-parfum",
+    "brand": "Acqua di Parma",
+    "name": "Yuzu Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.acquadiparma.com/en/gb/yuzu/YUZUEDPRP.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-eidesis-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Eidesis Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/opulent/eidesis-eau-de-parfum/FR26.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "low",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-gloam-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Gloam Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/floral/gloam-eau-de-parfum/FR27.html",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Iris",
+      "Warm Spice"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "powder-iris",
+      "warm-spice"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-hwyl-edp",
+    "brand": "Aesop",
+    "name": "Hwyl Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/woody/hwyl-eau-de-parfum/FR15.html?geo=false",
+    "scentKeywords": [
+      "Hinoki Woods",
+      "Incense",
+      "Green"
+    ],
+    "family": [
+      "woody-smoky"
+    ],
+    "tags": [
+      "soft-woods",
+      "incense-smoke",
+      "green-leafy",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "occasions": [
+      "relaxing-alone",
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "smoky",
+      "bitter-medicinal"
+    ],
+    "beginnerFriendliness": 0.62,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-karst-edp",
+    "brand": "Aesop",
+    "name": "Karst Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/fresh/karst-eau-de-parfum/FR22.html?geo=false",
+    "scentKeywords": [
+      "Sea Air",
+      "Mineral",
+      "Aromatic"
+    ],
+    "family": [
+      "fresh-aromatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "mineral",
+      "herbal-aromatic",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "occasions": [
+      "travel",
+      "daily-commute",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "refreshing-energetic",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "synthetic-impression"
+    ],
+    "beginnerFriendliness": 0.6,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-marrakech-intense-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Marrakech Intense Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/opulent/marrakech-intense-eau-de-parfum/FR21.html",
+    "scentKeywords": [
+      "Warm Spice",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "warm-spice",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-rozu-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Rōzu Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/floral/rozu-eau-de-parfum/FR20.html",
+    "scentKeywords": [
+      "Rose",
+      "Green",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "green-leafy",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-tacit-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Tacit Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/fresh/tacit-eau-de-parfum/FR12.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Green"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "green-leafy"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-aesop-virere-eau-de-parfum",
+    "brand": "Aesop",
+    "name": "Virēre Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.aesop.com/fragrance/fresh/virere-eau-de-parfum/AFR29.html",
+    "scentKeywords": [
+      "Green",
+      "Fig",
+      "Tea",
+      "Cool"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "fig",
+      "tea",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-bvlgari-man-in-black-eau-de-parfum",
+    "brand": "Bvlgari",
+    "name": "Bvlgari Man in Black Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/MAN-IN-BLACK-EDP",
+    "scentKeywords": [
+      "Warm Spice",
+      "Warm Amber",
+      "Smoky"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "warm-spice",
+      "amber-warm",
+      "incense-smoke"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-man-rain-essence-edp",
+    "brand": "Bvlgari",
+    "name": "Bvlgari Man Rain Essence Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.bulgari.com/en-us/product/MAN-RAIN-ESSENCE-EDP",
+    "scentKeywords": [
+      "Rain",
+      "Green Tea",
+      "Clean Musk"
+    ],
+    "family": [
+      "woody-aquatic"
+    ],
+    "tags": [
+      "rain-petrichor",
+      "mineral",
+      "aquatic-sea-salt",
+      "tea",
+      "clean-musk",
+      "incense-smoke"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "synthetic-impression",
+      "musky-generic",
+      "smoky"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-bvlgari-man-wood-essence-eau-de-parfum",
+    "brand": "Bvlgari",
+    "name": "Bvlgari Man Wood Essence Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/MAN-WOOD-ESS-EDP",
+    "scentKeywords": [
+      "Green",
+      "Soft Woods",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "soft-woods",
+      "herbal-aromatic"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-eau-parfumee-the-blanc-eau-de-toilette",
+    "brand": "Bvlgari",
+    "name": "Eau Parfumée Thé Blanc Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/EAU-PARFUMEE-THE-BLANC",
+    "scentKeywords": [
+      "Tea",
+      "Clean Musk",
+      "Soft Musk",
+      "Cool"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "tea",
+      "clean-musk",
+      "skin-musk",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-eau-parfumee-the-imperial-eau-de-toilette",
+    "brand": "Bvlgari",
+    "name": "Eau Parfumée Thé Impérial Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/EAU-PARFUMEE-THE-IMPERIAL",
+    "scentKeywords": [
+      "Tea",
+      "Citrus",
+      "Soft Musk"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "tea",
+      "citrus",
+      "skin-musk"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-eau-parfumee-the-vert-edt",
+    "brand": "Bvlgari",
+    "name": "Eau Parfumée Thé Vert Eau de Toilette",
+    "concentration": "Eau de Toilette (upgraded formula)",
+    "officialUrl": "https://www.bulgari.com/en-us/product/EAU-PARFUMEE-THE-VERT",
+    "scentKeywords": [
+      "Green Tea",
+      "Citrus",
+      "Neroli"
+    ],
+    "family": [
+      "citrus-aromatic"
+    ],
+    "tags": [
+      "tea",
+      "green-leafy",
+      "citrus",
+      "fresh-floral",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "soapy"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-omnia-amethyste-eau-de-toilette",
+    "brand": "Bvlgari",
+    "name": "Omnia Amethyste Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/OMNIA-AM-EADT",
+    "scentKeywords": [
+      "Green",
+      "Fresh Floral",
+      "Iris"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "green-leafy",
+      "fresh-floral",
+      "powder-iris"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-omnia-coral-eau-de-toilette",
+    "brand": "Bvlgari",
+    "name": "Omnia Coral Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.bulgari.com/fr-ch/parfums/omnia/42549.html",
+    "scentKeywords": [
+      "Fruity",
+      "Fresh Floral",
+      "Fresh"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-bvlgari-omnia-crystalline-eau-de-toilette",
+    "brand": "Bvlgari",
+    "name": "Omnia Crystalline Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.bulgari.com/fr-fr/product/OMNIA-CRYSTALLINE-EDT",
+    "scentKeywords": [
+      "Sea Salt",
+      "Fresh Floral",
+      "Clean Musk",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "fresh-floral",
+      "clean-musk",
+      "skin-musk"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-bal-d-afrique-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Bal d’Afrique Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+    "scentKeywords": [
+      "Citrus",
+      "Fresh Floral",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "fresh-floral",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-bibliotheque-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Bibliothèque Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/uk_en/p/bibliotheque-eau-de-parfum",
+    "scentKeywords": [
+      "Fruity",
+      "Iris",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "fruit",
+      "powder-iris",
+      "soft-woods"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-black-saffron-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Black Saffron Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/ca_fr/p/black-saffron-eau-de-parfum",
+    "scentKeywords": [
+      "Fruity",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "fruit",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "playful"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-blanche-edp",
+    "brand": "Byredo",
+    "name": "Blanche Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+    "scentKeywords": [
+      "Clean Linen",
+      "Soft Floral",
+      "Musk"
+    ],
+    "family": [
+      "floral-musky"
+    ],
+    "tags": [
+      "clean-musk",
+      "fresh-floral",
+      "aldehydic",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "elegant"
+    ],
+    "avoidTraits": [
+      "soapy",
+      "synthetic-impression",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-de-los-santos-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "De Los Santos Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/eu_es/p/de-los-santos-eau-de-parfum",
+    "scentKeywords": [
+      "Herbal",
+      "Smoky",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "incense-smoke",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "smoky"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-gypsy-water-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Gypsy Water Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum?sku=806168",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Herbal",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "herbal-aromatic",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-mixed-emotions-edp",
+    "brand": "Byredo",
+    "name": "Mixed Emotions Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/mixed-emotion-eau-de-parfum",
+    "scentKeywords": [
+      "Black Tea",
+      "Dark Fruit",
+      "Woods"
+    ],
+    "family": [
+      "woody-aromatic"
+    ],
+    "tags": [
+      "tea",
+      "fruit-blackcurrant",
+      "green-leafy",
+      "smoky-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "occasions": [
+      "date-night",
+      "relaxing-alone",
+      "formal-evening"
+    ],
+    "moods": [
+      "mysterious",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "smoky",
+      "bitter-medicinal",
+      "synthetic-impression"
+    ],
+    "beginnerFriendliness": 0.58,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-mojave-ghost-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Mojave Ghost Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/mojave-ghost-eau-de-parfum?sku=0065204858",
+    "scentKeywords": [
+      "Fruity",
+      "Iris",
+      "Soft Musk",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "fruit",
+      "powder-iris",
+      "skin-musk",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "playful"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-rose-of-no-man-s-land-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Rose of No Man’s Land Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/rose-of-no-mans-land-eau-de-parfum",
+    "scentKeywords": [
+      "Rose",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-super-cedar-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Super Cedar Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/super-cedar-eau-de-parfum",
+    "scentKeywords": [
+      "Soft Woods",
+      "Soft Musk",
+      "Cool"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "skin-musk",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-byredo-young-rose-eau-de-parfum",
+    "brand": "Byredo",
+    "name": "Young Rose Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.byredo.com/us_en/p/young-rose-eau-de-parfum?sku=0065211455",
+    "scentKeywords": [
+      "Rose",
+      "Fruity",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "fruit",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-bleu-de-chanel-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/107350/bleu-de-chanel-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Herbal",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "herbal-aromatic",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-chance-eau-fraiche-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Chance Eau Fraîche Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/136140/chance-eau-fraiche-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Cool"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-chance-eau-splendide-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Chance Eau Splendide Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/136210/chance-eau-splendide-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "Fruity",
+      "Fresh Floral",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-chance-eau-tendre-eau-de-toilette",
+    "brand": "Chanel",
+    "name": "Chance Eau Tendre Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/126320/chance-eau-tendre-eau-de-toilette-spray/",
+    "scentKeywords": [
+      "Fruity",
+      "Fresh Floral",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-coco-mademoiselle-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Coco Mademoiselle Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/116420/coco-mademoiselle-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "Citrus",
+      "Rose",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "rose",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-coromandel-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Coromandel Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/fr/parfums/p/122290/coromandel-eau-de-parfum-ambre-boise-vanille/",
+    "scentKeywords": [
+      "Warm Amber",
+      "Soft Woods",
+      "Warm Spice",
+      "Gourmand"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "amber-warm",
+      "soft-woods",
+      "warm-spice",
+      "gourmand"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-gabrielle-chanel-essence-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "Gabrielle Chanel Essence Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/120610/gabrielle-chanel-essence-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "White Floral",
+      "Fruity",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "fruit",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft",
+      "playful"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-n-5-eau-de-parfum",
+    "brand": "Chanel",
+    "name": "N°5 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/125530/n5-eau-de-parfum-spray/",
+    "scentKeywords": [
+      "Clean Musk",
+      "Fresh Floral",
+      "Iris",
+      "White Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "clean-musk",
+      "fresh-floral",
+      "powder-iris",
+      "white-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "powdery",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-n5-leau-edt",
+    "brand": "Chanel",
+    "name": "N°5 L'EAU Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/105530/n5-leau-eau-de-toilette-spray/",
+    "scentKeywords": [
+      "Citrus",
+      "Clean Floral",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral-aldehydic"
+    ],
+    "tags": [
+      "citrus",
+      "clean-musk",
+      "fresh-floral",
+      "aldehydic",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "formal-evening"
+    ],
+    "moods": [
+      "clean",
+      "elegant",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "soapy",
+      "synthetic-impression"
+    ],
+    "beginnerFriendliness": 0.84,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-paris-deauville-eau-de-toilette",
+    "brand": "Chanel",
+    "name": "Paris–Deauville Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/102400/paris-deauville-les-eaux-de-chanel-eau-de-toilette-spray/",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Cool"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-paris-edimbourg-eau-de-toilette",
+    "brand": "Chanel",
+    "name": "Paris–Édimbourg Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.chanel.com/fr/parfums/p/102747/paris-edimbourg-les-eaux-de-chanel-eau-de-toilette-vaporisateur/",
+    "scentKeywords": [
+      "Green",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-chanel-paris-venise-eau-de-toilette",
+    "brand": "Chanel",
+    "name": "Paris–Venise Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.chanel.com/us/fragrance/p/102420/paris-venise-les-eaux-de-chanel-eau-de-toilette-spray/",
+    "scentKeywords": [
+      "Iris",
+      "Warm Amber",
+      "Vanilla"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "powder-iris",
+      "amber-warm",
+      "vanilla"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-dior-addict-eau-de-parfum",
+    "brand": "Dior",
+    "name": "Dior Addict Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/dior-addict-F007282409.html",
+    "scentKeywords": [
+      "Vanilla",
+      "White Floral",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "vanilla",
+      "white-floral",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-dior-homme-cologne",
+    "brand": "Dior",
+    "name": "Dior Homme Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/dior-homme-cologne-Y9190300.html",
+    "scentKeywords": [
+      "Citrus",
+      "Clean Musk",
+      "Cool"
+    ],
+    "family": [
+      "musky"
+    ],
+    "tags": [
+      "citrus",
+      "clean-musk",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-dior-homme-intense-eau-de-parfum",
+    "brand": "Dior",
+    "name": "Dior Homme Intense Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/dior-homme-intense-Y0479201.html",
+    "scentKeywords": [
+      "Iris",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "powder-iris",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-eau-sauvage-eau-de-toilette",
+    "brand": "Dior",
+    "name": "Eau Sauvage Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/eau-sauvage-eau-de-toilette-Y0097001.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-gris-dior-eau-de-parfum",
+    "brand": "Dior",
+    "name": "Gris Dior Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/gris-dior-Y0840550.html",
+    "scentKeywords": [
+      "Rose",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-j-adore-eau-de-parfum",
+    "brand": "Dior",
+    "name": "J’adore Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/j%E2%80%99adore-eau-de-parfum-Y0998031.html",
+    "scentKeywords": [
+      "White Floral",
+      "Fruity",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "fruit",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft",
+      "playful"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-jadore-parfum-deau-af-edp",
+    "brand": "Dior",
+    "name": "J’adore Parfum d’eau",
+    "concentration": "Alcohol-Free Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/jadore-parfum-deau-C099700237.html",
+    "scentKeywords": [
+      "Neroli",
+      "White Floral",
+      "Fresh"
+    ],
+    "family": [
+      "fresh-floral"
+    ],
+    "tags": [
+      "white-floral",
+      "fresh-floral",
+      "citrus",
+      "cool-transparent"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "romantic-soft",
+      "elegant",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral",
+      "soapy"
+    ],
+    "beginnerFriendliness": 0.88,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-miss-dior-blooming-bouquet-eau-de-toilette",
+    "brand": "Dior",
+    "name": "Miss Dior Blooming Bouquet Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/miss-dior-blooming-bouquet-C099700101.html",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Rose",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "rose",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-miss-dior-eau-de-parfum",
+    "brand": "Dior",
+    "name": "Miss Dior Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/miss-dior-eau-de-parfum-E000001556.html",
+    "scentKeywords": [
+      "Rose",
+      "Fresh Floral",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "fresh-floral",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-miss-dior-rose-n-roses-eau-de-toilette",
+    "brand": "Dior",
+    "name": "Miss Dior Rose N’Roses Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/miss-dior-rose-nroses-C099600732.html",
+    "scentKeywords": [
+      "Rose",
+      "Citrus",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "citrus",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-sauvage-eau-de-parfum",
+    "brand": "Dior",
+    "name": "Sauvage Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-Y0785220.html",
+    "scentKeywords": [
+      "Citrus",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "citrus",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "warm-cozy",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-sauvage-eau-de-toilette",
+    "brand": "Dior",
+    "name": "Sauvage Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-toilette-Y0685240.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-dior-sauvage-elixir",
+    "brand": "Dior",
+    "name": "Sauvage Elixir",
+    "concentration": "Elixir",
+    "officialUrl": "https://www.dior.com/en_us/beauty/products/sauvage-elixir-Y0996460.html",
+    "scentKeywords": [
+      "Warm Spice",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "warm-spice",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "very-high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.62,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-do-son-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "Do Son Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-do-son-doson100v2",
+    "scentKeywords": [
+      "White Floral",
+      "Sea Salt",
+      "Fresh Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "aquatic-sea-salt",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-capitale-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Eau Capitale Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-eau-capitale-capitap75cv1",
+    "scentKeywords": [
+      "Rose",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-des-sens-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "Eau des Sens Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-des-sens-eau-de-toilette",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "White Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "white-floral"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-duelle-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Eau Duelle Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-eau-duelle-duellep75cv1",
+    "scentKeywords": [
+      "Vanilla",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "vanilla",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-moheli-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "Eau Moheli Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-eau-moheli-mohe100v2",
+    "scentKeywords": [
+      "White Floral",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "dense-floral",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-rihla-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Eau Rihla Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-eau-rihla-meastp75c?nosto=nosto-page-category1",
+    "scentKeywords": [
+      "Soft Woods",
+      "Smoky",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "incense-smoke",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-eau-rose-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Eau Rose Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://diptyqueparis.com/fr-fr/products/eau-de-parfum-eau-rose-rosep75c",
+    "scentKeywords": [
+      "Rose",
+      "Green",
+      "Fruity"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "green-leafy",
+      "fruit"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-fleur-de-peau-edp",
+    "brand": "Diptyque",
+    "name": "Fleur de Peau Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-fleur-de-peau-fleurp75cv1",
+    "scentKeywords": [
+      "Skin Musk",
+      "Iris",
+      "Soft Spice"
+    ],
+    "family": [
+      "floral-musky"
+    ],
+    "tags": [
+      "clean-musk",
+      "powder-iris",
+      "ambrette",
+      "soft-spice"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "relaxing-alone",
+      "date-night"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "elegant"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.76,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-ilio-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "Ilio Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-ilio-ilio100v4",
+    "scentKeywords": [
+      "Fruity",
+      "Fresh Floral",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral",
+      "cool-transparent"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-l-eau-papier-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "L’Eau Papier Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-eau-papier-papier100",
+    "scentKeywords": [
+      "Soft Musk",
+      "Clean Musk",
+      "Iris",
+      "Cool"
+    ],
+    "family": [
+      "musky"
+    ],
+    "tags": [
+      "skin-musk",
+      "clean-musk",
+      "powder-iris",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-l-ombre-dans-l-eau-eau-de-toilette",
+    "brand": "Diptyque",
+    "name": "L’Ombre dans l’Eau Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-ombre-dans-eau-ombre100v2",
+    "scentKeywords": [
+      "Green",
+      "Rose",
+      "Fruity"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "green-leafy",
+      "rose",
+      "fruit"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-orpheon-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Orphéon Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-orpheon-orphp75c",
+    "scentKeywords": [
+      "Soft Woods",
+      "Iris",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "soft-woods",
+      "powder-iris",
+      "herbal-aromatic"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-philosykos-edp",
+    "brand": "Diptyque",
+    "name": "Philosykos Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-philosykos-philop75cv1",
+    "scentKeywords": [
+      "Green",
+      "Fig",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody-green"
+    ],
+    "tags": [
+      "fig",
+      "green-leafy",
+      "soft-woods",
+      "milky-green"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "occasions": [
+      "daily-commute",
+      "relaxing-alone",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.88,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-diptyque-tam-dao-eau-de-parfum",
+    "brand": "Diptyque",
+    "name": "Tam Dao Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Amber",
+      "Warm"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-angelique-noire-edp",
+    "brand": "Guerlain",
+    "name": "Angélique Noire Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/lart-la-matiere-angelique-noire-eau-de-parfum-P017898.html",
+    "scentKeywords": [
+      "Green Vanilla",
+      "Herbs",
+      "Warm"
+    ],
+    "family": [
+      "amber-aromatic"
+    ],
+    "tags": [
+      "vanilla",
+      "green-leafy",
+      "herbal-aromatic",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "mysterious",
+      "elegant",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "bitter-medicinal",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.56,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-bergamote-calabria-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Bergamote Calabria Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-bergamote-calabria---eau-de-toilette-P014384.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-forte-bosca-vanilla-eau-de-parfum",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Forte Bosca Vanilla Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-forte-bosca-vanilla-forte---eau-de-parfum-P014741.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Sea Salt",
+      "Warm Amber"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "vanilla",
+      "aquatic-sea-salt",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-herba-fresca-edt",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Herba Fresca Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-herba-fresca-eau-de-toilette-G014392.html",
+    "scentKeywords": [
+      "Mint",
+      "Green Tea",
+      "Fresh Grass"
+    ],
+    "family": [
+      "fresh-aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "green-leafy",
+      "tea",
+      "rain-petrichor",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "travel",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "refreshing-energetic",
+      "clean"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-mandarine-basilic-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Mandarine Basilic Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/fr/fr-fr/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-G062177.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Fruity"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "fruit"
+    ],
+    "sweetness": "moderate",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-nerolia-vetiver-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Nerolia Vetiver Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/fr/fr-fr/p/aqua-allegoria-nerolia-vetiver---eau-de-toilette-G014412.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-pamplelune-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Pamplelune Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-pamplelune---eau-de-toilette-P014400.html",
+    "scentKeywords": [
+      "Citrus",
+      "Green",
+      "Fresh"
+    ],
+    "family": [
+      "fresh"
+    ],
+    "tags": [
+      "citrus",
+      "green-leafy"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-pera-granita-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Pera Granita Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-pera-granita---eau-de-toilette-P014403.html",
+    "scentKeywords": [
+      "Fruity",
+      "Citrus",
+      "Cool"
+    ],
+    "family": [
+      "fresh"
+    ],
+    "tags": [
+      "fruit",
+      "citrus",
+      "cool-transparent"
+    ],
+    "sweetness": "moderate",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-aqua-allegoria-rosa-rossa-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Rosa Rossa Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-rosa-rossa---eau-de-toilette-P014405.html",
+    "scentKeywords": [
+      "Rose",
+      "Fruity",
+      "Fresh Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "fruit",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-l-homme-ideal-eau-de-parfum",
+    "brand": "Guerlain",
+    "name": "L’Homme Idéal Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/uk/en-uk/p/l%E2%80%99homme-ideal-de-guerlain-paris-eau-de-parfum-P030311.html",
+    "scentKeywords": [
+      "Gourmand",
+      "Vanilla",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "gourmand",
+      "vanilla",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-mon-guerlain-eau-de-parfum",
+    "brand": "Guerlain",
+    "name": "Mon Guerlain Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/mon-guerlain-eau-de-parfum-P013139.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Herbal",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "vanilla",
+      "herbal-aromatic",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-shalimar-eau-de-parfum",
+    "brand": "Guerlain",
+    "name": "Shalimar Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-P011355.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Warm Amber",
+      "Iris",
+      "Smoky"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "vanilla",
+      "amber-warm",
+      "powder-iris",
+      "incense-smoke"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "powdery",
+      "smoky"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-spiritueuse-double-vanille-eau-de-parfum",
+    "brand": "Guerlain",
+    "name": "Spiritueuse Double Vanille Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.guerlain.com/fr/fr-fr/p/lart-la-matiere-spiritueuse-double-vanille-eau-de-parfum-P017906.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Gourmand",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "gourmand",
+      "amber-warm"
+    ],
+    "sweetness": "very-high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.63,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-guerlain-vetiver-eau-de-toilette",
+    "brand": "Guerlain",
+    "name": "Vétiver Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.guerlain.com/ca/fr-ca/p/vetiver-eau-de-toilette-P030486.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Green",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "soft-woods",
+      "green-leafy",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-eau-d-orange-verte-eau-de-cologne",
+    "brand": "Hermès",
+    "name": "Eau d’Orange Verte Eau de Cologne",
+    "concentration": "Eau de Cologne",
+    "officialUrl": "https://www.hermes.com/us/en/product/eau-d-orange-verte-eau-de-cologne-V101918V0/",
+    "scentKeywords": [
+      "Citrus",
+      "Green",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "green-leafy",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-eau-des-merveilles-bleue-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Eau des Merveilles Bleue Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/eau-des-merveilles-bleue-eau-de-toilette-V107059V0/",
+    "scentKeywords": [
+      "Sea Salt",
+      "Soft Woods",
+      "Cool",
+      "Rain"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "soft-woods",
+      "cool-transparent",
+      "rain-petrichor"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-eau-des-merveilles-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Eau des Merveilles Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/eau-des-merveilles-eau-de-toilette-V107058V0/",
+    "scentKeywords": [
+      "Warm Amber",
+      "Citrus",
+      "Soft Woods",
+      "Warm Spice"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "amber-warm",
+      "citrus",
+      "soft-woods",
+      "warm-spice"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-h24-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "H24 Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/h24-eau-de-toilette-V101563V0/",
+    "scentKeywords": [
+      "Green",
+      "Herbal",
+      "Cool"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "herbal-aromatic",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-h24-herbes-vives-eau-de-parfum",
+    "brand": "Hermès",
+    "name": "H24 Herbes Vives Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.hermes.com/us/en/product/h24-herbes-vives-eau-de-parfum-V113601V0/",
+    "scentKeywords": [
+      "Green",
+      "Herbal",
+      "Rain"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "herbal-aromatic",
+      "rain-petrichor"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-le-jardin-de-monsieur-li-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Le Jardin de Monsieur Li Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/le-jardin-de-monsieur-li-eau-de-toilette-V32118/",
+    "scentKeywords": [
+      "Citrus",
+      "Green",
+      "Cool"
+    ],
+    "family": [
+      "fresh"
+    ],
+    "tags": [
+      "citrus",
+      "green-leafy",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-terre-d-hermes-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Terre d’Hermès Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-de-toilette-V107189V0/",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Rain"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "rain-petrichor"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-terre-eau-givree-edp",
+    "brand": "Hermès",
+    "name": "Terre d’Hermès Eau Givrée Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-givree-eau-de-parfum-V107535V0/",
+    "scentKeywords": [
+      "Icy Citrus",
+      "Mineral",
+      "Juniper"
+    ],
+    "family": [
+      "citrus-woody"
+    ],
+    "tags": [
+      "citrus",
+      "cool-transparent",
+      "mineral",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic",
+      "confident-sharp"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.88,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-terre-d-hermes-eau-intense-vetiver-eau-de-parfum",
+    "brand": "Hermès",
+    "name": "Terre d’Hermès Eau Intense Vétiver Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-intense-vetiver-eau-de-parfum-V40945/",
+    "scentKeywords": [
+      "Soft Woods",
+      "Herbal",
+      "Warm Spice"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "soft-woods",
+      "herbal-aromatic",
+      "warm-spice"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-twilly-d-hermes-eau-de-parfum",
+    "brand": "Hermès",
+    "name": "Twilly d’Hermès Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.hermes.com/us/en/product/twilly-d-hermes-eau-de-parfum-V107263V0/",
+    "scentKeywords": [
+      "White Floral",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "dense-floral",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-un-jardin-a-cythere-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Un Jardin à Cythère Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/un-jardin-a-cythere-eau-de-toilette-V109288V0/",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Gourmand"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "gourmand"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-un-jardin-en-mediterranee-eau-de-toilette",
+    "brand": "Hermès",
+    "name": "Un Jardin en Méditerranée Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/un-jardin-en-mediterranee-eau-de-toilette-V712650/1/",
+    "scentKeywords": [
+      "Fig",
+      "Green",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "fig",
+      "green-leafy",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-un-jardin-sur-le-nil-edt",
+    "brand": "Hermès",
+    "name": "Un Jardin sur le Nil Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.hermes.com/us/en/product/un-jardin-sur-le-nil-eau-de-toilette-V20396/",
+    "scentKeywords": [
+      "Green Mango",
+      "Watery",
+      "Soft Woods"
+    ],
+    "family": [
+      "green-woody"
+    ],
+    "tags": [
+      "green-leafy",
+      "fruit",
+      "aquatic-sea-salt",
+      "cool-transparent",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic",
+      "calm-serene",
+      "playful"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-hermes-voyage-d-hermes-parfum",
+    "brand": "Hermès",
+    "name": "Voyage d’Hermès Parfum",
+    "concentration": "Parfum",
+    "officialUrl": "https://www.hermes.com/us/en/product/voyage-d-hermes-parfum-V107571V0/",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-blackberry-and-bay-cologne",
+    "brand": "Jo Malone London",
+    "name": "Blackberry & Bay Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/23540/colognes/blackberry-bay-cologne",
+    "scentKeywords": [
+      "Fruity",
+      "Green",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "fruit",
+      "green-leafy",
+      "herbal-aromatic"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-cypress-and-grapevine-cologne-intense",
+    "brand": "Jo Malone London",
+    "name": "Cypress & Grapevine Cologne Intense",
+    "concentration": "Cologne Intense",
+    "officialUrl": "https://www.jomalone.com/product/25946/110444/colognes/cypress-grapevine-cologne-intense",
+    "scentKeywords": [
+      "Soft Woods",
+      "Herbal",
+      "Green"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "soft-woods",
+      "herbal-aromatic",
+      "green-leafy"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-earl-grey-cucumber-cologne",
+    "brand": "Jo Malone London",
+    "name": "Earl Grey & Cucumber Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/15968/colognes/earl-grey-cucumber-cologne",
+    "scentKeywords": [
+      "Earl Grey",
+      "Cucumber",
+      "Fresh"
+    ],
+    "family": [
+      "fresh-aromatic"
+    ],
+    "tags": [
+      "tea",
+      "green-leafy",
+      "citrus",
+      "cool-transparent",
+      "clean-musk"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "workplace",
+      "travel",
+      "daily-commute"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "synthetic-impression"
+    ],
+    "beginnerFriendliness": 0.86,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-english-pear-and-freesia-cologne",
+    "brand": "Jo Malone London",
+    "name": "English Pear & Freesia Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/12553/colognes/english-pear-freesia-cologne",
+    "scentKeywords": [
+      "Fruity",
+      "Fresh Floral",
+      "Fresh"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-lime-basil-and-mandarin-cologne",
+    "brand": "Jo Malone London",
+    "name": "Lime Basil & Mandarin Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/10101/colognes/lime-basil-mandarin-cologne",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Fresh"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-myrrh-and-tonka-cologne-intense",
+    "brand": "Jo Malone London",
+    "name": "Myrrh & Tonka Cologne Intense",
+    "concentration": "Cologne Intense",
+    "officialUrl": "https://www.jomalone.com/product/25946/110447/colognes/myrrh-tonka-cologne-intense",
+    "scentKeywords": [
+      "Warm Amber",
+      "Vanilla",
+      "Warm Spice"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "amber-warm",
+      "vanilla",
+      "warm-spice"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-orange-blossom-cologne",
+    "brand": "Jo Malone London",
+    "name": "Orange Blossom Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/10106/colognes/orange-blossom-cologne",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Fresh Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-peony-and-blush-suede-cologne",
+    "brand": "Jo Malone London",
+    "name": "Peony & Blush Suede Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/27028/colognes/peony-blush-suede-cologne",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Fruity",
+      "Iris"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "fruit",
+      "powder-iris"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-pomegranate-noir-cologne",
+    "brand": "Jo Malone London",
+    "name": "Pomegranate Noir Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/9900/colognes/pomegranate-noir-cologne",
+    "scentKeywords": [
+      "Fruity",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "fruit",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "playful"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-scarlet-poppy-cologne-intense",
+    "brand": "Jo Malone London",
+    "name": "Scarlet Poppy Cologne Intense",
+    "concentration": "Cologne Intense",
+    "officialUrl": "https://www.jomalone.com/product/25946/110775/colognes/scarlet-poppy-cologne-intense",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Iris",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "powder-iris",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-london-wild-bluebell-cologne",
+    "brand": "Jo Malone London",
+    "name": "Wild Bluebell Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/18848/colognes/wild-bluebell-cologne",
+    "scentKeywords": [
+      "Green",
+      "Fresh Floral",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "green-leafy",
+      "fresh-floral",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-jo-malone-wood-sage-sea-salt-cologne",
+    "brand": "Jo Malone London",
+    "name": "Wood Sage & Sea Salt Cologne",
+    "concentration": "Cologne",
+    "officialUrl": "https://www.jomalone.com/product/25946/32241/colognes/wood-sage-sea-salt-cologne",
+    "scentKeywords": [
+      "Sea Salt",
+      "Mineral",
+      "Aromatic"
+    ],
+    "family": [
+      "woody-aromatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "mineral",
+      "herbal-aromatic",
+      "soft-woods",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic",
+      "calm-serene"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.95,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-another-13-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Another 13 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/another-13.html",
+    "scentKeywords": [
+      "Soft Musk",
+      "Clean Musk",
+      "Cool"
+    ],
+    "family": [
+      "musky"
+    ],
+    "tags": [
+      "skin-musk",
+      "clean-musk",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-baie-19-edp",
+    "brand": "Le Labo",
+    "name": "BAIE 19 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/baie-19-618.html",
+    "scentKeywords": [
+      "Rain",
+      "Green Leaves",
+      "Mineral"
+    ],
+    "family": [
+      "green-mineral"
+    ],
+    "tags": [
+      "rain-petrichor",
+      "green-leafy",
+      "mineral",
+      "juniper",
+      "patchouli"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "occasions": [
+      "daily-commute",
+      "travel",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "mysterious",
+      "refreshing-energetic",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "synthetic-impression"
+    ],
+    "beginnerFriendliness": 0.58,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-bergamote-22-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Bergamote 22 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/bergamote-22.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-eucalyptus-20-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Eucalyptus 20 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/classic-collection/eucalyptus-20.html",
+    "scentKeywords": [
+      "Herbal",
+      "Green",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "green-leafy",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-fleur-d-oranger-27-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Fleur d’Oranger 27 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/fleur-doranger-27.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Fresh Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "fresh-floral"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-lavande-31-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Lavande 31 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/lavande-31.html",
+    "scentKeywords": [
+      "Herbal",
+      "Clean Musk",
+      "Soft Musk"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "clean-musk",
+      "skin-musk"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-rose-31-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Rose 31 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/rose-31.html",
+    "scentKeywords": [
+      "Rose",
+      "Warm Spice",
+      "Soft Woods",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "warm-spice",
+      "soft-woods",
+      "skin-musk"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-santal-33-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Santal 33 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/santal-33.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Smoky"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "incense-smoke"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-the-matcha-26-edp",
+    "brand": "Le Labo",
+    "name": "THÉ MATCHA 26 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/th-matcha-26-911.html",
+    "scentKeywords": [
+      "Tea",
+      "Fig",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody-aromatic"
+    ],
+    "tags": [
+      "tea",
+      "fig",
+      "soft-woods",
+      "citrus-bitter"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "workplace",
+      "relaxing-alone",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "clean"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal"
+    ],
+    "beginnerFriendliness": 0.86,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-the-noir-29-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "THÉ NOIR 29 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/th-noir-29.html",
+    "scentKeywords": [
+      "Tea",
+      "Fig",
+      "Soft Woods",
+      "Smoky"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "tea",
+      "fig",
+      "soft-woods",
+      "incense-smoke"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-tonka-25-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Tonka 25 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/tonka-25.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Warm Amber",
+      "Gourmand",
+      "Soft Musk"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "amber-warm",
+      "gourmand",
+      "skin-musk"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-le-labo-vetiver-46-eau-de-parfum",
+    "brand": "Le Labo",
+    "name": "Vetiver 46 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.lelabofragrances.com/vetiver-46.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Smoky",
+      "Warm Spice"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "incense-smoke",
+      "warm-spice"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-autumn-vibes-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Autumn Vibes Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-autumn-vibes/MM002.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Rain",
+      "Warm Spice"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "rain-petrichor",
+      "warm-spice"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-beach-walk-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Beach Walk Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-beach-walk/MM003.html",
+    "scentKeywords": [
+      "Sea Salt",
+      "White Floral",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "white-floral",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-bubble-bath-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Bubble Bath Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-bubble-bath/MM004.html",
+    "scentKeywords": [
+      "Clean Musk",
+      "Soft Musk",
+      "Fresh Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "clean-musk",
+      "skin-musk",
+      "fresh-floral"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-by-the-fireplace-edt",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA By the Fireplace Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.us/fragrances/replica-eau-de-toilette/replica-by-the-fireplace/MM005.html",
+    "scentKeywords": [
+      "Smoky Woods",
+      "Vanilla",
+      "Warm Spice"
+    ],
+    "family": [
+      "woody-gourmand"
+    ],
+    "tags": [
+      "incense-smoke",
+      "vanilla",
+      "gourmand",
+      "soft-woods",
+      "warm-spice"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "relaxing-alone",
+      "date-night"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "smoky",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.72,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-coffee-break-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Coffee Break Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-coffee-break/MM006.html",
+    "scentKeywords": [
+      "Gourmand",
+      "Vanilla",
+      "Herbal"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "gourmand",
+      "vanilla",
+      "herbal-aromatic"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-from-the-garden-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA From the Garden Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-from-the-garden/MM135.html",
+    "scentKeywords": [
+      "Green",
+      "Herbal",
+      "Rain"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "green-leafy",
+      "herbal-aromatic",
+      "rain-petrichor"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-jazz-club-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Jazz Club Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-jazz-club/MM008.html",
+    "scentKeywords": [
+      "Smoky",
+      "Vanilla",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "incense-smoke",
+      "vanilla",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-lazy-sunday-morning-edt",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Lazy Sunday Morning Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.us/fragrances/replica-eau-de-toilette/replica-lazy-sunday-morning/MM009.html",
+    "scentKeywords": [
+      "Clean Linen",
+      "Soft Floral",
+      "Musk"
+    ],
+    "family": [
+      "floral-musky"
+    ],
+    "tags": [
+      "clean-musk",
+      "fresh-floral",
+      "powder-iris",
+      "aldehydic"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "soapy",
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.92,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-sailing-day-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Sailing Day Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-sailing-day/MM011.html",
+    "scentKeywords": [
+      "Sea Salt",
+      "Cool",
+      "Fresh"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "cool-transparent"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-maison-margiela-replica-replica-under-the-lemon-trees-eau-de-toilette",
+    "brand": "Maison Margiela Replica",
+    "name": "REPLICA Under the Lemon Trees Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.maisonmargiela-fragrances.eu/en_GB/fragrances/discover/replica-memories/replica-under-the-lemon-trees/MM013.html",
+    "scentKeywords": [
+      "Citrus",
+      "Green",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "green-leafy",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "low",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-blenheim-bouquet-eau-de-toilette",
+    "brand": "Penhaligon's",
+    "name": "Blenheim Bouquet Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.penhaligons.com/us/en/p/blenheim-bouquet-eau-de-toilette-100-ml--000000000065173477",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligons-cairo-edp",
+    "brand": "Penhaligon's",
+    "name": "Cairo Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/us/en/p/cairo-eau-de-parfum-100-ml--000000000065188928",
+    "scentKeywords": [
+      "Rose",
+      "Saffron",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber-floral"
+    ],
+    "tags": [
+      "rose",
+      "warm-spice",
+      "amber-warm",
+      "incense-smoke",
+      "vanilla"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "mysterious",
+      "warm-cozy",
+      "elegant"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral",
+      "smoky",
+      "spicy-pungent",
+      "mature-retro"
+    ],
+    "beginnerFriendliness": 0.42,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-empressa-eau-de-parfum",
+    "brand": "Penhaligon's",
+    "name": "Empressa Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/eu/en/p/empressa-eau-de-parfum-100ml--000000000065225906",
+    "scentKeywords": [
+      "Fruity",
+      "Rose",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fruit",
+      "rose",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-endymion-concentre-eau-de-parfum",
+    "brand": "Penhaligon's",
+    "name": "Endymion Concentré Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/eu/en/p/endymion-concentre-eau-de-parfum-100-ml--000000000065223838",
+    "scentKeywords": [
+      "Warm Spice",
+      "Soft Woods",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "warm-spice",
+      "soft-woods",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-halfeti-eau-de-parfum",
+    "brand": "Penhaligon's",
+    "name": "Halfeti Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/eu/en/p/halfeti-eau-de-parfum-100ml--000000000065225962",
+    "scentKeywords": [
+      "Warm Spice",
+      "Soft Woods",
+      "Warm Amber",
+      "Smoky"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "warm-spice",
+      "soft-woods",
+      "amber-warm",
+      "incense-smoke"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.7,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligons-juniper-sling-edt",
+    "brand": "Penhaligon's",
+    "name": "Juniper Sling Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.penhaligons.com/us/en/p/juniper-sling-eau-de-toilette-30ml--000000000065227796",
+    "scentKeywords": [
+      "Juniper",
+      "Citrus",
+      "Cool Spice"
+    ],
+    "family": [
+      "citrus-aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "citrus",
+      "cool-transparent",
+      "spice"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "bitter-medicinal",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-luna-eau-de-toilette",
+    "brand": "Penhaligon's",
+    "name": "Luna Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840",
+    "scentKeywords": [
+      "Citrus",
+      "Rose",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "rose",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-quercus-eau-de-cologne",
+    "brand": "Penhaligon's",
+    "name": "Quercus Eau de Cologne",
+    "concentration": "Eau de Cologne",
+    "officialUrl": "https://www.penhaligons.com/uk/en/p/quercus-eau-de-cologne-100-ml--000000000065223843",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "low",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-the-coveted-duchess-rose-eau-de-parfum",
+    "brand": "Penhaligon's",
+    "name": "The Coveted Duchess Rose Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/de/en/p/the-coveted-duchess-rose-eau-de-parfum-75-ml--000000000065173409",
+    "scentKeywords": [
+      "Rose",
+      "Soft Woods",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "soft-woods",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-penhaligon-s-the-favourite-eau-de-parfum",
+    "brand": "Penhaligon's",
+    "name": "The Favourite Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.penhaligons.com/uk/en/p/the-favourite-eau-de-parfum-100ml--000000000065223844",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Iris",
+      "Soft Musk"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "powder-iris",
+      "skin-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-infusion-diris-edp",
+    "brand": "Prada",
+    "name": "Infusion d’Iris Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/les-infusions/infusion-diris-eau-de-parfum/3614274171150.html",
+    "scentKeywords": [
+      "Iris",
+      "Clean",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral-woody"
+    ],
+    "tags": [
+      "powder-iris",
+      "clean-musk",
+      "citrus",
+      "soft-woods",
+      "soapy-clean"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "formal-evening"
+    ],
+    "moods": [
+      "clean",
+      "elegant",
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "soapy",
+      "mature-retro"
+    ],
+    "beginnerFriendliness": 0.88,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-infusion-de-figue-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Infusion de Figue Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/les-infusions/infusion-de-figue-eau-de-parfum/MPL01631.html",
+    "scentKeywords": [
+      "Fig",
+      "Green",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "fig",
+      "green-leafy",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-infusion-de-gingembre-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Infusion de Gingembre Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/les-infusions/infusion-de-gingembre-eau-de-parfum/MPL01684.html",
+    "scentKeywords": [
+      "Citrus",
+      "Warm Spice",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "warm-spice",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-infusion-de-vanille-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Infusion de Vanille Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/les-infusions/infusion-de-vanille-eau-de-parfum/MPL01704.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Citrus",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "vanilla",
+      "citrus",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-l-homme-prada-eau-de-toilette",
+    "brand": "Prada",
+    "name": "L’Homme Prada Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/lhomme-prada/lhomme-prada-eau-de-toilette/MPL01352.html",
+    "scentKeywords": [
+      "Iris",
+      "Clean Musk",
+      "Soft Musk",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "powder-iris",
+      "clean-musk",
+      "skin-musk",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-luna-rossa-black-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Luna Rossa Black Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-black-eau-de-parfum/MPL01369.html",
+    "scentKeywords": [
+      "Iris",
+      "Warm Amber",
+      "Soft Musk"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "powder-iris",
+      "amber-warm",
+      "skin-musk"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "powdery",
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-luna-rossa-carbon-eau-de-toilette",
+    "brand": "Prada",
+    "name": "Luna Rossa Carbon Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-carbon-eau-de-toilette/8435137772704.html",
+    "scentKeywords": [
+      "Herbal",
+      "Rain",
+      "Soft Woods"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "rain-petrichor",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-luna-rossa-ocean-eau-de-toilette",
+    "brand": "Prada",
+    "name": "Luna Rossa Ocean Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-ocean-eau-de-toilette/3614273991841.html",
+    "scentKeywords": [
+      "Sea Salt",
+      "Citrus",
+      "Herbal"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "citrus",
+      "herbal-aromatic"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-paradoxe-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Paradoxe Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-eau-de-parfum/3614273760164.html",
+    "scentKeywords": [
+      "White Floral",
+      "Fruity",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "fruit",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-prada-paradoxe-virtual-flower-eau-de-parfum",
+    "brand": "Prada",
+    "name": "Paradoxe Virtual Flower Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-virtual-flower-eau-de-parfum/3614274000771.html",
+    "scentKeywords": [
+      "Fresh Floral",
+      "Clean Musk",
+      "Soft Musk",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "fresh-floral",
+      "clean-musk",
+      "skin-musk",
+      "cool-transparent"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-black-orchid-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Black Orchid Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+    "scentKeywords": [
+      "White Floral",
+      "Rain",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "rain-petrichor",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "very-high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.62,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-cafe-rose-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Café Rose Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/cafe-rose-eau-de-parfum",
+    "scentKeywords": [
+      "Rose",
+      "Gourmand",
+      "Warm Spice"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "rose",
+      "gourmand",
+      "warm-spice"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-eau-de-soleil-blanc-eau-de-toilette",
+    "brand": "Tom Ford",
+    "name": "Eau de Soleil Blanc Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.tomfordbeauty.com/products/eau-de-soleil-blanc-eau-de-toilette",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Sea Salt"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "aquatic-sea-salt"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-grey-vetiver-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Grey Vetiver Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/grey-vetiver-eau-de-parfum",
+    "scentKeywords": [
+      "Citrus",
+      "Soft Woods",
+      "Herbal"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "citrus",
+      "soft-woods",
+      "herbal-aromatic"
+    ],
+    "sweetness": "very-low",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-lost-cherry-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Lost Cherry Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+    "scentKeywords": [
+      "Fruity",
+      "Gourmand",
+      "Vanilla"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "fruit",
+      "gourmand",
+      "vanilla"
+    ],
+    "sweetness": "very-high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.63,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-mandarino-di-amalfi-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Mandarino di Amalfi Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/mandarino-di-amalfi-eau-de-parfum",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "White Floral"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "white-floral"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-neroli-portofino-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Neroli Portofino Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Sea Salt"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "aquatic-sea-salt"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-ombre-leather-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Ombré Leather Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Smoky"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "incense-smoke"
+    ],
+    "sweetness": "low",
+    "freshness": "low",
+    "intensity": "very-high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "smoky",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.54,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-oud-wood-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Oud Wood Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-rose-prick-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Rose Prick Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/rose-prick-eau-de-parfum",
+    "scentKeywords": [
+      "Rose",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-santal-blush-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Santal Blush Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/santal-blush-eau-de-parfum",
+    "scentKeywords": [
+      "Soft Woods",
+      "Warm Spice",
+      "Iris"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "warm-spice",
+      "powder-iris"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "powdery",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-soleil-blanc-eau-de-parfum",
+    "brand": "Tom Ford",
+    "name": "Soleil Blanc Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/soleil-blanc-eau-de-parfum",
+    "scentKeywords": [
+      "White Floral",
+      "Warm Amber",
+      "Gourmand"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "white-floral",
+      "amber-warm",
+      "gourmand"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-tom-ford-tobacco-vanille-edp",
+    "brand": "Tom Ford",
+    "name": "Tobacco Vanille Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+    "scentKeywords": [
+      "Tobacco",
+      "Vanilla",
+      "Warm Spice"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "gourmand",
+      "incense-smoke",
+      "warm-spice",
+      "fruit"
+    ],
+    "sweetness": "very-high",
+    "freshness": "very-low",
+    "intensity": "very-high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "warm-cozy",
+      "mysterious",
+      "confident-sharp"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "smoky",
+      "spicy-pungent",
+      "mature-retro"
+    ],
+    "beginnerFriendliness": 0.45,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-ambre-imperial-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Ambre Impérial Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/fr/en/collections/fragrances/collection-extraordinaire/vcaro9pl00---ambre-imperial.html",
+    "scentKeywords": [
+      "Warm Amber",
+      "Warm Spice",
+      "Vanilla"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "amber-warm",
+      "warm-spice",
+      "vanilla"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-arpels-bois-diris-edp",
+    "brand": "Van Cleef & Arpels",
+    "name": "Bois d’Iris Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/us/en/collections/fragrances/collection-extraordinaire/vcarn9ck00---bois-diris.html",
+    "scentKeywords": [
+      "Iris",
+      "Soft Woods",
+      "Incense"
+    ],
+    "family": [
+      "woody-powdery"
+    ],
+    "tags": [
+      "powder-iris",
+      "soft-woods",
+      "incense-smoke",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "occasions": [
+      "workplace",
+      "formal-evening",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "elegant",
+      "calm-serene",
+      "mysterious"
+    ],
+    "avoidTraits": [
+      "powdery",
+      "smoky",
+      "mature-retro"
+    ],
+    "beginnerFriendliness": 0.64,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-bois-dore-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Bois Doré Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/mc/fr/collections/fragrances/collection-extraordinaire/vcarp2mc00---bois-dore.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Vanilla",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "vanilla",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-moonlight-patchouli-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Moonlight Patchouli Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/fr/en/collections/fragrances/collection-extraordinaire/vcarp0rn00---moonlight-patchouli.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Iris",
+      "Warm Amber"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "powder-iris",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "powdery"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-neroli-amara-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Néroli Amara Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/fr/en/collections/fragrances/collection-extraordinaire/vcarpnc700---neroli-amara.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Green"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "green-leafy"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-orchidee-vanille-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Orchidée Vanille Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/mc/en/collections/fragrances/collection-extraordinaire/vcarn9cg00---orchidee-vanille.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Gourmand",
+      "White Floral"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "gourmand",
+      "white-floral"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-rose-rouge-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Rose Rouge Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/mc/en/collections/fragrances/collection-extraordinaire/vcarp3xe00---rose-rouge.html",
+    "scentKeywords": [
+      "Rose",
+      "Fruity",
+      "Warm Spice"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "rose",
+      "fruit",
+      "warm-spice"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "romantic-soft",
+      "playful"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-van-cleef-and-arpels-santal-blanc-eau-de-parfum",
+    "brand": "Van Cleef & Arpels",
+    "name": "Santal Blanc Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.vancleefarpels.com/mc/en/collections/fragrances/collection-extraordinaire/vcarp6b100---santal-blanc.html",
+    "scentKeywords": [
+      "Soft Woods",
+      "Soft Musk",
+      "Fig"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "soft-woods",
+      "skin-musk",
+      "fig"
+    ],
+    "sweetness": "low",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 4,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "calm-serene"
+    ],
+    "avoidTraits": [
+      "musky-generic"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-bright-crystal-edt",
+    "brand": "Versace",
+    "name": "Bright Crystal Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/us/en/women/accessories/fragrances-body-care/bright-crystal/bright-crystal-edt-90-ml-pink/R510032-R090MLS_RNUL.html",
+    "scentKeywords": [
+      "Pomegranate",
+      "Peony",
+      "Fresh Musk"
+    ],
+    "family": [
+      "floral-fruity"
+    ],
+    "tags": [
+      "fruit",
+      "fresh-floral",
+      "aquatic-sea-salt",
+      "clean-musk"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "travel"
+    ],
+    "moods": [
+      "playful",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "synthetic-impression",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.95,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-crystal-noir-eau-de-parfum",
+    "brand": "Versace",
+    "name": "Crystal Noir Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/it/en/women/accessories/fragrances-body-care/crystal-noir/crystal-noir-edt-50-ml/R07126-R050MLS_RNUL.html",
+    "scentKeywords": [
+      "White Floral",
+      "Warm Spice",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "warm-spice",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 2,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-dylan-blue-pour-homme-eau-de-toilette",
+    "brand": "Versace",
+    "name": "Dylan Blue Pour Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/row/en/men/accessories/fragrances-body-care/dylan-blue-pour-homme/dylan-blue-pour-homme-edt-100-ml/R721010-R100MLS_RNUL.html",
+    "scentKeywords": [
+      "Sea Salt",
+      "Citrus",
+      "Soft Woods"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "aquatic-sea-salt",
+      "citrus",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "very-high",
+    "intensity": "high",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-eros-eau-de-parfum",
+    "brand": "Versace",
+    "name": "Eros Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.versace.com/us/en/men/accessories/fragrances-body-care/eros/eros-edp-100-ml-blue/R740110-R100MLS_RNUL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Fruity",
+      "Vanilla",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "citrus",
+      "fruit",
+      "vanilla",
+      "soft-woods"
+    ],
+    "sweetness": "high",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "warm-cozy",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-eros-flame-eau-de-parfum",
+    "brand": "Versace",
+    "name": "Eros Flame Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/eros-flame/eau-de-parfum-eros-flame-100%C2%A0ml/R741010-R100MLS_RNUL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Warm Spice",
+      "Vanilla"
+    ],
+    "family": [
+      "fresh"
+    ],
+    "tags": [
+      "citrus",
+      "warm-spice",
+      "vanilla"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 2,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.82,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-man-eau-fraiche-eau-de-toilette",
+    "brand": "Versace",
+    "name": "Man Eau Fraîche Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/row/en/men/accessories/fragrances-body-care/eau-fraiche/eau-fraiche-edt-100-ml/R500010-R100MLS_RNUL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Sea Salt",
+      "Soft Woods"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "citrus",
+      "aquatic-sea-salt",
+      "soft-woods"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-versace-pour-homme-eau-de-toilette",
+    "brand": "Versace",
+    "name": "Versace Pour Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/row/en/men/accessories/fragrances-body-care/pour-homme/pour-homme-edt-100-ml/R720010-R100MLS_RNUL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Herbal",
+      "Sea Salt"
+    ],
+    "family": [
+      "fresh-aquatic"
+    ],
+    "tags": [
+      "citrus",
+      "herbal-aromatic",
+      "aquatic-sea-salt"
+    ],
+    "sweetness": "very-low",
+    "freshness": "very-high",
+    "intensity": "moderate",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-versace-yellow-diamond-eau-de-toilette",
+    "brand": "Versace",
+    "name": "Yellow Diamond Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.versace.com/us/en/women/accessories/fragrances-body-care/yellow-diamond/yellow-diamond-edt-90-ml-yellow/R520032-R090MLS_RNUL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Fresh Floral",
+      "Cool"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "fresh-floral",
+      "cool-transparent"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 2,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "clean",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-ysl-black-opium-edp",
+    "brand": "Yves Saint Laurent",
+    "name": "Black Opium Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/black-opium-eau-de-parfum/252YSL.html",
+    "scentKeywords": [
+      "Coffee",
+      "Vanilla",
+      "White Floral"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "gourmand",
+      "vanilla",
+      "white-floral",
+      "warm-spice",
+      "coffee"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "date-night",
+      "formal-evening"
+    ],
+    "moods": [
+      "warm-cozy",
+      "confident-sharp",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.86,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-black-opium-le-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Black Opium Le Parfum",
+    "concentration": "Le Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/black-opium-le-parfum/3614273863360.html",
+    "scentKeywords": [
+      "Vanilla",
+      "Gourmand",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "vanilla",
+      "gourmand",
+      "amber-warm"
+    ],
+    "sweetness": "very-high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.63,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-black-opium-over-red-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Black Opium Over Red Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/black-opium-eau-de-parfum-over-red/WW-51116YSL.html",
+    "scentKeywords": [
+      "Fruity",
+      "Gourmand",
+      "Vanilla"
+    ],
+    "family": [
+      "amber-gourmand"
+    ],
+    "tags": [
+      "fruit",
+      "gourmand",
+      "vanilla"
+    ],
+    "sweetness": "high",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "playful"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-l-homme-eau-de-toilette",
+    "brand": "Yves Saint Laurent",
+    "name": "L’Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/mens-fragrances/lhomme/lhomme-eau-de-toilette-spray/284YSL.html",
+    "scentKeywords": [
+      "Citrus",
+      "Warm Spice",
+      "Soft Woods"
+    ],
+    "family": [
+      "woody"
+    ],
+    "tags": [
+      "citrus",
+      "warm-spice",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-la-nuit-de-l-homme-eau-de-toilette",
+    "brand": "Yves Saint Laurent",
+    "name": "La Nuit de L’Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/mens-fragrances/la-nuit-de-lhomme/la-nuit-de-lhomme-eau-de-toilette-spray/426YSL.html",
+    "scentKeywords": [
+      "Warm Spice",
+      "Herbal",
+      "Warm Amber"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "warm-spice",
+      "herbal-aromatic",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.9,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-libre-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum/109YSL.html",
+    "scentKeywords": [
+      "Herbal",
+      "White Floral",
+      "Vanilla",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "white-floral",
+      "vanilla",
+      "amber-warm"
+    ],
+    "sweetness": "moderate",
+    "freshness": "moderate",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "autumn",
+      "all-seasons"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-libre-intense-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Intense Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum-intense/306YSL.html",
+    "scentKeywords": [
+      "White Floral",
+      "Vanilla",
+      "Warm Amber"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "white-floral",
+      "vanilla",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy",
+      "romantic-soft"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-myslf-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "MYSLF Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/mens-fragrances/myslf/myslf-eau-de-parfum/WW-51115YSL.html",
+    "scentKeywords": [
+      "Citrus",
+      "White Floral",
+      "Soft Woods"
+    ],
+    "family": [
+      "floral"
+    ],
+    "tags": [
+      "citrus",
+      "white-floral",
+      "soft-woods"
+    ],
+    "sweetness": "low",
+    "freshness": "high",
+    "intensity": "moderate",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "romantic-soft",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "dense-floral"
+    ],
+    "beginnerFriendliness": 0.94,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-opium-pour-homme-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Opium Pour Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "officialUrl": "https://www.yslbeauty.com.au/fragrance/mens-perfume/opium-pour-homme-eau-de-toilette-100ml/399YSL.html",
+    "scentKeywords": [
+      "Warm Spice",
+      "Vanilla",
+      "Warm Amber"
+    ],
+    "family": [
+      "amber"
+    ],
+    "tags": [
+      "warm-spice",
+      "vanilla",
+      "amber-warm"
+    ],
+    "sweetness": "high",
+    "freshness": "low",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "occasions": [
+      "daily-commute",
+      "date-night",
+      "relaxing-alone"
+    ],
+    "moods": [
+      "warm-cozy"
+    ],
+    "avoidTraits": [
+      "cloying-sweet",
+      "high-intensity",
+      "spicy-pungent"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  },
+  {
+    "id": "fc-yves-saint-laurent-y-eau-de-parfum",
+    "brand": "Yves Saint Laurent",
+    "name": "Y Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "officialUrl": "https://www.yslbeautyus.com/fragrance/mens-fragrances/y/y-eau-de-parfum/727YSL.html",
+    "scentKeywords": [
+      "Herbal",
+      "Soft Woods",
+      "Fruity"
+    ],
+    "family": [
+      "aromatic"
+    ],
+    "tags": [
+      "herbal-aromatic",
+      "soft-woods",
+      "fruit"
+    ],
+    "sweetness": "moderate",
+    "freshness": "high",
+    "intensity": "high",
+    "priceTier": 3,
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "occasions": [
+      "daily-commute",
+      "workplace",
+      "travel"
+    ],
+    "moods": [
+      "calm-serene",
+      "playful",
+      "refreshing-energetic"
+    ],
+    "avoidTraits": [
+      "high-intensity"
+    ],
+    "beginnerFriendliness": 0.78,
+    "taxonomyVersion": "launch-v1"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Fragrance Compass",
+  "description": "A personalized perfume recommendation guide and scent discovery companion for fragrance beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
