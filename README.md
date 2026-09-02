@@ -2,6 +2,10 @@
 
 Fragrance Compass is a personalized perfume recommendation website designed for fragrance beginners. It translates familiar scent preferences, sensitivities, moods, occasions, seasons, and budget preferences into a concise shortlist drawn from a curated catalog of 200 real fragrances.
 
+## Live Demo
+
+[Open Fragrance Compass](https://fragrance-compass-three.vercel.app)
+
 ## Project overview
 
 The project combines a multilingual React application with a lightweight REST API. Its deterministic, rule-based recommendation engine uses controlled `launch-v1` fragrance metadata rather than external fragrance APIs or generated product claims. Official brand product pages provide the destination for further product information.
